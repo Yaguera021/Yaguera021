@@ -1,4 +1,4 @@
-### Olá eu sou o Yago Böhm da Cruz 👋🐨🇧🇷🇦🇺
+### Olá eu sou o Yago Böhm da Cruz 👋🐨🇧🇷 🇦🇺
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yagobhmcruz21/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/madcoala021)
