@@ -1,9 +1,29 @@
 ### Olá eu sou o Yago Böhm da Cruz 👋🐨🇧🇷 🇦🇺
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yagobhmcruz21/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/madcoala021)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagobhmcruz02121/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999290598)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/yagobhmcruz21/?igshid=OGQ5ZDc2ODk2ZA%3D%3D">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.twitch.tv/madcoala021">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yagobhmcruz02121/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/5553999290598">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/Yaguera021">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yaguera021&show_icons=true&count_private=true&theme=radical"/>
@@ -11,7 +31,7 @@
 </a>
 
 ## Tecnologias 👇
-<div align="center" valign="top"><br>
+
 <table>
   <tr>
     <td align="center">
@@ -39,7 +59,7 @@
       <br>CSS3
     </td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" height="30" width="40">
       <br>Node.js
@@ -92,7 +112,3 @@
     </td>
   </tr>
 </table>
-</div>
-
-
-
