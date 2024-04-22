@@ -26,7 +26,7 @@
 </table>
 
 <a href="https://github.com/Yaguera021">
-  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=yaguera021&show_icons=true&count_private=true&theme=radical"/>
+  <img height="150em" width="250em" src="https://github-readme-stats.vercel.app/api?username=yaguera021&show_icons=true&count_private=true&theme=radical"/>
   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaguera021&layout=compact&theme=radical"/>
 </a>
 
