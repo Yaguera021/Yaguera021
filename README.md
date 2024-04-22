@@ -65,6 +65,32 @@
       <br>Docker
     </td>
   </tr>
+  <tr>
+    <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="30" width="40">
+    <br>Spring Boot
+    </td>
+    <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40">
+    <br>GitHub
+    </td>
+    <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="30" width="40">
+    <br>IntelliJ IDEA
+    </td>
+    <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" width="40">
+    <br>Python
+    </td>
+    <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" height="30" width="40">
+    <br>vsCode
+    </td>
+    <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" width="40">
+    <br>Java
+    </td>
+  </tr>
 </table>
 </div>
 
