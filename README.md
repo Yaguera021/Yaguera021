@@ -1,6 +1,8 @@
 ### Olá eu sou o Yago Böhm da Cruz 👋
-🐨🇧🇷🇦🇺
 
+<div align="center">
+🐨🇧🇷🇦🇺
+</div>
 <table>
   <tr>
     <td align="center">
