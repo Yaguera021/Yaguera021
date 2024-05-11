@@ -32,7 +32,7 @@
 </div>
 
 
-## Tecnologias 👇
+## Tecnologias 💻
 
 <table>
   <tr>
