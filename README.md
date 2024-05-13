@@ -31,9 +31,9 @@
   </a>
 </div>
 
-<div align="center">
-Tecnologias 💻
-</div>
+
+## Tecnologias 💻
+
 <table>
   <tr>
     <td align="center">
