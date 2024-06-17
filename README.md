@@ -1,4 +1,4 @@
-### Olá eu sou o Yago Böhm da Cruz 👋
+## Olá eu sou o Yago Böhm da Cruz 👋
 <table>
   <tr>
     <td align="center">
@@ -32,7 +32,7 @@
 </div>
 
 
-### Tecnologias 💻
+## Tecnologias 💻
 
 <table>
   <tr>
